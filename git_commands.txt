@@ -1,5 +1,6 @@
-Git Commit Commands
+biggner tutorial
 
+Git Commit Commands
 # Github account Configuration
 git config --global user.name <username>
 git config --global user.email <email>
