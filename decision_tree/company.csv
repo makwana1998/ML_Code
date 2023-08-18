@@ -1,0 +1,16 @@
+Company,Degignation,Degree,Salary
+google,sales executive,bachelors,0
+google,sales executive,master,0
+google,business manager,bachelors,1
+google,business manager,master,1
+google,computer engineer,bachelors,0
+google,computer engineer,master,1
+facebook,sales executive,master,1
+facebook,sales executive,bachelors,1
+facebook,business manager,bachelors,1
+facebook,business manager,master,1
+facebook,computer engineer,bachelors,1
+facebook,computer engineer,master,1
+cisco,computer engineer,bachelors,0
+cisco,sales executive,master,0
+cisco,business manager,bachelors,0
